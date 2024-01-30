@@ -11,7 +11,7 @@ categories:
 
 开源社群存在的目的，主要是制造高质量的开源软件，并促进该软件的使用。为了达到这两个目标，开源社群需要调动参与者的积极性，并且协同背景多样的参与者的贡献，共同修复软件缺陷、改善软件体验、增加软件功能、组织社群活动和发展软件生态。大多数开源社群的环境里，实际进行组织协调工作的成员，就是社群的维护者（Maintainer）。
 
-不同开源社群对角色的定位和命名有着各自的风格。Vim 社群生态丰富，但是 Bram Moolenaar 是唯一的[“仁慈的独裁者”](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life)。[Kubernetes](https://github.com/kubernetes/community/blob/master/community-membership.md) 制作了一套基于 SIG 划分的从 Reviewer 到 Appover 再到 Owner 的体系。[Apache](https://www.apache.org/foundation/how-it-works.html#roles) 基金会的每个项目都使用 Committer + Project Management Committee 的治理结构。[Rust](https://www.rust-lang.org/governance) 和如今的 [Linux](https://docs.kernel.org/process/maintainers.html) 采用分模块的 Team Maintainer 模式。[PostgreSQL](https://www.postgresql.org/community/contributors/) 则由整个项目级别的 Core Team + Committer 来治理。
+不同开源社群对角色的定位和命名有着各自的风格。Vim 社群生态丰富，但是 Bram Moolenaar 是唯一的[“仁慈的独裁者”](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life)。[Kubernetes](https://github.com/kubernetes/community/blob/master/community-membership.md) 制作了一套基于 SIG 划分的从 Reviewer 到 Approver 再到 Owner 的体系。[Apache](https://www.apache.org/foundation/how-it-works.html#roles) 基金会的每个项目都使用 Committer + Project Management Committee 的治理结构。[Rust](https://www.rust-lang.org/governance) 和如今的 [Linux](https://docs.kernel.org/process/maintainers.html) 采用分模块的 Team Maintainer 模式。[PostgreSQL](https://www.postgresql.org/community/contributors/) 则由整个项目级别的 Core Team + Committer 来治理。
 
 对于刚起步的开源项目而言，这些眼花缭乱的标准背后，其实是一个大致相同的对项目维护者的标准。对于想要深入参与开源社群的人来说，理解了项目维护者的标准，也就明白该做些什么以成为一名维护者了。本文主要对这个标准的不同层面进行讨论，顺带对比上面这些经过演变的不同版本。
 
